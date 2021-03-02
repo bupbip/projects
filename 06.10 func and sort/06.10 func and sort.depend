@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603636738 source:d:\projects\06.10 func and sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

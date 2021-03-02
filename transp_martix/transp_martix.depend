@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602236298 source:d:\projects\transp_martix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

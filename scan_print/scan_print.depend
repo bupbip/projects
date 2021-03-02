@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600420048 source:d:\projects\scan_print\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
